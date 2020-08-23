@@ -7,6 +7,6 @@ these are some general question and problems that I have solved
 3. Program to Reverse an Array.
 4. Program for Matrix Multiplication
 5. Program for Transpose of a Matrix
-6. Program to perform linear search over an Array
+6. Program to perform binary search over an Array
 7. Program to sort an array.
 8. Programto find missing number in a sorted Array.
