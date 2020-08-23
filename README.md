@@ -9,3 +9,4 @@ these are some general question and problems that I have solved
 5. Program for Transpose of a Matrix
 6. Program to perform linear search over an Array
 7. Program to sort an array.
+8. Programto find missing number in a sorted Array.
