@@ -16,3 +16,4 @@ these are some general question and problems that I have solved
 12. Program to perfom matrix addition on sparse matrix
 13. Program to transpose a sparse matrix
 14. Program to perfom matrix multiplication on sparse matrix
+15. Program to calculate row and column sum
