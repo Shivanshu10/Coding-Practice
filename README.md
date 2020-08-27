@@ -17,4 +17,6 @@ these are some general question and problems that I have solved
 13. Program to transpose a sparse matrix
 14. Program to perfom matrix multiplication on sparse matrix
 15. Program to calculate row and column sum
-16. Print matrix is spiral order
+16. Program to find saddle point of a matrix
+17. Program to print a matrix in spiral order
+18. Program to fill matrix till square of an integer in spiral order
