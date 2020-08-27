@@ -13,3 +13,5 @@ these are some general question and problems that I have solved
 9. Program to store diagonal matrix efficiently
 10. Program to store tridiagonal matrix efficiently.
 11. Program to efficiently store symmetric matrix
+12. Program to perfom matrix addition on sparse matrix
+13. Program to transpose a sparse matrix
