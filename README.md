@@ -12,4 +12,4 @@ these are some general question and problems that I have solved
 8. Programto find missing number in a sorted Array.
 9. Program to store diagonal matrix efficiently
 10. Program to store tridiagonal matrix efficiently.
-
+11. Program to efficiently store symmetric matrix
