@@ -20,3 +20,7 @@ these are some general question and problems that I have solved
 16. Program to find saddle point of a matrix
 17. Program to print a matrix in spiral order
 18. Program to fill matrix till square of an integer in spiral order
+19. Implement some basic operations on singly linkedlist
+20. Find mid of a linked list
+21. Reverse a linked list
+
