@@ -23,4 +23,16 @@ these are some general question and problems that I have solved
 19. Implement some basic operations on singly linkedlist
 20. Find mid of a linked list
 21. Reverse a linked list
-
+22. Implement combination using recursive function
+23. Implement Factorial of a number using recursion
+24. Implement Fibonacci Series with memory
+25. Implement Fibonacci Series using simple recurssion
+26. Implement Fibonacci Series using simple Iteration
+27. Implement a recursive funtion to compute power of a number
+28. Reverse an Array
+29. Calculate sum of n natural number using recusion
+30. Implement Taylor Series using recurssion
+31. Implement Taylor Series using Horner's Rule
+32. Implement Taylor Series using Iterative Method
+33. Solve Tower of Hanoi Problem
+34. Alternatively Sort an Array
