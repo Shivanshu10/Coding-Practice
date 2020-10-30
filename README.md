@@ -36,3 +36,4 @@ these are some general question and problems that I have solved
 32. Implement Taylor Series using Iterative Method
 33. Solve Tower of Hanoi Problem
 34. Alternatively Sort an Array
+35. Find Klargest element in an array withiut using Heap
