@@ -15,24 +15,20 @@ class Array
 		}
 		void klargest(int k)
 		{
-			int temp, index = 0, n = size;
-			for (int j=0; j<k; j++)
+			int temp;
+			for (int i=0; i<k; i++)
 			{
-				temp = arr[0];
-				for (int i=0; i<n; i++)
+				for (int j=0; j<size-i-1; j++)
 				{
-					if (arr[i] > temp)
+					if (arr[j] > arr[j+1])
 					{
-						temp = arr[i];
-						index = i;
+						temp = arr[j];
+						arr[j] = arr[j+1];
+						arr[j+1] = temp;
 					}
 				}
-				temp = arr[index];
-				arr[index] = arr[n-1];
-				arr[n-1] = temp;
-				n--; 
 			}
-			cout << arr[index] << endl;
+			cout << arr[size - k] << endl;
 		}
 		void disp()
 		{
@@ -48,7 +44,7 @@ int main()
 {
 	int a[] = {1, 4, 3, 2};
 	Array arr(a, 4);
-	arr.klargest(3);
+	arr.klargest(2);
 	arr.disp();
 	return (0);
 }

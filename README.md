@@ -37,3 +37,5 @@ these are some general question and problems that I have solved
 33. Solve Tower of Hanoi Problem
 34. Alternatively Sort an Array
 35. Find Klargest element in an array withiut using Heap
+36. Sort array containing 1s, 2s and 3s without using any Sorting Algoritm
+37. Arrange negative and positive integers to one side of array
