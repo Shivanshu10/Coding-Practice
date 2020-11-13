@@ -20,7 +20,7 @@ class Array
             {
                 if (arr[i] < 0)
                 {
-					if (i != j)
+					if (i != negpos)
 					{
 						temp = arr[i];
 						arr[i] = arr[negpos];

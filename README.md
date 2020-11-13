@@ -39,3 +39,26 @@ these are some general question and problems that I have solved
 35. Find Klargest element in an array withiut using Heap
 36. Sort array containing 1s, 2s and 3s without using any Sorting Algoritm
 37. Arrange negative and positive integers to one side of array
+38. Binary Search in array using Recursion
+39. Merge two sorted arrays to form a bigger sorted array.
+40. Union of two sorted Array with no duplicates
+41. Intersection of two sorted array with no duplicates
+42. Rotate Array by one to left
+43. Find Missing numbers in a sorted array
+44. Find missing elements in an unsorted array using hashmap
+45. Given an array and an integer k find all pair of elements with sum k
+46. Find duplicates in an array using hashmap
+47. Find duplicates elemennts in a sorted array
+48. Find duplicates in unsorted array
+49. Find max and min element in array in single transversal
+50. Min number of jumps to reach end of arrays
+51. Min Difference between max and min elements of array
+52. Find the subarray with max sum of elements
+53. Alternatly rearrange negative and positive numbers in an array
+54. Find pair of elements with sum k in a sorted array
+55. Find pair of elements with sum k in an unsorted array
+56. Reverse a string
+57. Check if a string is Palindrome
+58. Reverse a linked list using recursion
+59. Find the first and last occurence of a given number in a sorted array
+60. Find duplicates in a string using bit manipulation
