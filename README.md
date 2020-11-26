@@ -62,3 +62,6 @@ these are some general question and problems that I have solved
 58. Reverse a linked list using recursion
 59. Find the first and last occurence of a given number in a sorted array
 60. Find duplicates in a string using bit manipulation
+61. Search for an element in a sorted  matrix
+62. Reverse the linked list in groups of given size
+63. Merge two Linked List
