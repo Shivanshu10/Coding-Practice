@@ -66,3 +66,7 @@ these are some general question and problems that I have solved
 62. Reverse the linked list in groups of given size
 63. Merge two Linked List
 64. Check if any loop is present
+65. Generate all possible permutations of a string
+66. Find row with max number of 1s in a boolean matrix
+67. Sort element of a matrix
+68. Find Intersecting point of two linked list
