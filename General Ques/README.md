@@ -74,3 +74,4 @@ these are some general question and problems that I have solved
 70. Infix to Postfix conversion
 71. Solve tower of hanoi
 72. Evaluation of Postfix expression
+73. Check if a string is rotation of other
