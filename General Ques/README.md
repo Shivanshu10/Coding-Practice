@@ -75,3 +75,11 @@ these are some general question and problems that I have solved
 71. Solve tower of hanoi
 72. Evaluation of Postfix expression
 73. Check if a string is rotation of other
+74. Count number of perfect sqaure below given number
+75. Inorder transversal of Binary Tree using recursion
+76. Postorder transversal of Binary Tree using recursion
+77. Preorder transversal of Binary Tree using recursion
+78. Inorder transversal of Binary Tree without recursion
+79. Postorder transversal of Binary Tree without recursion
+80. Preorder transversal of Binary Tree without recursion
+81. Generate Binary Tree
