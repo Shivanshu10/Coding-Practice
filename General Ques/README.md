@@ -83,3 +83,14 @@ these are some general question and problems that I have solved
 79. Postorder transversal of Binary Tree without recursion
 80. Preorder transversal of Binary Tree without recursion
 81. Generate Binary Tree
+82. Count number of Nodes in a Tree
+83. Count height of a Tree
+84. Count number of nodes of degree two
+85. Count leaf nodes of a tree
+86. Search in a Binary Search Tree Iteratively
+87. Program to Search a key in Binary Search Recursively
+88. Program to Insert a Node in a Binary Search Tree, Iteratively
+89. Program to Insert a node in Binary Search Tree Recursively
+90. Find Inorder Predecessor and Successor of a Node
+91. Deleting From a Binary Search Tree
+92. Implement Heap from Scratch
