@@ -94,3 +94,4 @@ these are some general question and problems that I have solved
 90. Find Inorder Predecessor and Successor of a Node
 91. Deleting From a Binary Search Tree
 92. Implement Heap from Scratch
+93. Implement Heap Sort
